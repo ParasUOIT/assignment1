@@ -1,1 +1,4 @@
 *.class
+
+/q1/src/test/
+/q2/src/test/
