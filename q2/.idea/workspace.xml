@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bbfa7f8-7a85-4fa6-a977-48cb2ac623e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1YjuIttTneyKqzwcumqrHdBsMTe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PATH_TO_FX$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calcapp.q2" />
+      <module name="q2.main" />
+      <option name="VM_PARAMETERS" value="-p $PATH_TO_FX$ --add-modules javafx.controls " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calcapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.q2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bbfa7f8-7a85-4fa6-a977-48cb2ac623e2" name="Default Changelist" comment="" />
+      <created>1583468247387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583468247387</updated>
+      <workItem from="1583468249036" duration="198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="61" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583468346638">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="61" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/61.27.1859.1053@61.27.1859.1053" timestamp="1583468346638" />
+    <state x="188" y="121" width="636" height="864" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583468314493">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="188" y="121" width="636" height="864" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/61.27.1859.1053@61.27.1859.1053" timestamp="1583468314493" />
+    <state x="200" y="297" width="735" height="513" key="FileChooserDialogImpl" timestamp="1583468387097">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="200" y="297" width="735" height="513" key="FileChooserDialogImpl/61.27.1859.1053@61.27.1859.1053" timestamp="1583468387097" />
+    <state width="864" height="278" key="GridCell.Tab.0.bottom" timestamp="1583468437249">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state width="864" height="278" key="GridCell.Tab.0.bottom/61.27.1859.1053@61.27.1859.1053" timestamp="1583468437249" />
+    <state width="864" height="278" key="GridCell.Tab.0.center" timestamp="1583468437248">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state width="864" height="278" key="GridCell.Tab.0.center/61.27.1859.1053@61.27.1859.1053" timestamp="1583468437248" />
+    <state width="864" height="278" key="GridCell.Tab.0.left" timestamp="1583468437247">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state width="864" height="278" key="GridCell.Tab.0.left/61.27.1859.1053@61.27.1859.1053" timestamp="1583468437247" />
+    <state width="864" height="278" key="GridCell.Tab.0.right" timestamp="1583468437249">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state width="864" height="278" key="GridCell.Tab.0.right/61.27.1859.1053@61.27.1859.1053" timestamp="1583468437249" />
+    <state x="61" y="131" width="1024" height="845" key="SettingsEditor" timestamp="1583468391512">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="61" y="131" width="1024" height="845" key="SettingsEditor/61.27.1859.1053@61.27.1859.1053" timestamp="1583468391512" />
+  </component>
+</project>
